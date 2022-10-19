@@ -1,3 +1,5 @@
+## IMPORTANT NOTE: Please use Node version 16> to be able to run the code.
+
 <img align="left" width="100px" height="100px" src="https://user-images.githubusercontent.com/12256205/162470824-d34c5fad-555e-498b-9ac9-ba86b6eb057a.png">
 
 # SESO Coding Challenge: Log Sorting
